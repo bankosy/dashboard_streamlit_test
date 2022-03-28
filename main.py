@@ -4,8 +4,8 @@ import pandas as pd
 from PIL import Image
 import time
 
-st.title("Streamlit超入門")
-
+#st.title("Streamlit超入門")
+st.title("おためし")
 
 
 #"""
